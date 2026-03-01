@@ -79,7 +79,6 @@ nav ul li a {
 
 nav ul li a:hover, nav ul li a:focus {
     color: #023e8a;
-    outline: 3px solid #00b4d8;  /* Focus state for accessibility */
 }
 
 /* Home Section */
